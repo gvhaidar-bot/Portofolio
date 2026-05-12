@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- font google  -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,800;0,900;1,200;1,800&display=swap"
+        rel="stylesheet">
+
+    <!-- css style -->
+    <link rel="stylesheet" href="css/stylePorto.css">
+
+    <!-- cdn  -->
+    <!-- Ganti dengan versi 6 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+</head>
+
+<body>
+    <!-- navbar  -->
+    <section>
+
+        <nav>
+            <div class="left">
+                <a href="">Haidar Ali</a>
+            </div>
+            <div class="right">
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-brands fa-github"></i>
+                    <span>github</span>
+                </a>
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                    <span>Linkind</span>
+                </a>
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa-regular fa-envelope"></i>
+                    <span>mail</span>
+                </a>
+            </div>
+
+        </nav>
+
+    </section>
+    <!-- end nav -->
+    <!-- hero  -->
+    <section>
+
+    </section>
+    <!-- end hero -->
+    <!-- skill -->
+    <section id="skills"></section>
+    <!-- end skill -->
+    <!-- testimoni  -->
+    <section id="testimoni"></section>
+    <!-- end testimoni -->
+    <!-- contact -->
+    <section id="contact"></section>
+    <!-- end contact -->
+
+</body>
+
+</html>
